@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pushpasofiya/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/pushpasofiya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushpasofiya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pushpasofiya/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

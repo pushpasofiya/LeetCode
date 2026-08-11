@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pushpasofiya/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/pushpasofiya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/pushpasofiya/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pushpasofiya/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

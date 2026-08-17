@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

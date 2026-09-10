@@ -1,14 +1,19 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-       int flag=1;
-       int count=0;
+
+        int present[26]={0};
+        int count=0;
+        for(char ch:allowed)
+        {
+            present[ch-'a']++;
+        }
         for(string word:words)
         {
-           flag=1;
-            for(int i=0;i<word.length();i++)
+            int flag=1;
+            for(char c:word)
             {
-                if(find(allowed.begin(),allowed.end(),word[i])==allowed.end())
+                if(!present[c-'a'])
                 {
                     flag=0;
                     break;

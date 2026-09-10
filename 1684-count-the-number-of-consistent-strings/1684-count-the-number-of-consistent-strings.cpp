@@ -11,7 +11,8 @@ public:
         for(string word:words)
         {
             int flag=1;
-            for(char c:word)
+            set<char>s(word.begin(),word.end());
+            for(char c:s)
             {
                 if(!present[c-'a'])
                 {

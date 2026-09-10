@@ -11,8 +11,7 @@ public:
         for(string word:words)
         {
             int flag=1;
-            unordered_set<char>s(word.begin(),word.end());
-            for(char c:s)
+            for(char c:word)
             {
                 if(!present[c-'a'])
                 {

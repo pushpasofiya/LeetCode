@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushpasofiya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pushpasofiya/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1922-count-good-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpasofiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pushpasofiya/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/1922-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |

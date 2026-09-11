@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/pushpasofiya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpasofiya/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/pushpasofiya/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pushpasofiya/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpasofiya/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |

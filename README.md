@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3870-count-commas-in-range](https://github.com/pushpasofiya/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpasofiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushpasofiya/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table

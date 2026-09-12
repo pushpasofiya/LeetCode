@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushpasofiya/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pushpasofiya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pushpasofiya/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpasofiya/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pushpasofiya/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pushpasofiya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pushpasofiya/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/pushpasofiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |

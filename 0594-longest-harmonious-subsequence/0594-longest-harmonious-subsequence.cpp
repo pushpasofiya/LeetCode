@@ -11,14 +11,11 @@ public:
         for(int i=1;i<nums.size();i++)
         {
             int sum=0;
-            if(nums[i]!=nums[i-1])
-            {
                 if(abs(nums[i]-nums[i-1])==1)
                 {
                      sum=mpp[nums[i]]+mpp[nums[i-1]];
                      length=max(length,sum);
                 }
-            }
         }
         if(length==INT_MIN)
         {

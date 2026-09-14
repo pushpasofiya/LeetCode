@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpasofiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushpasofiya/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pushpasofiya/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/pushpasofiya/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpasofiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,19 +121,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,4 +195,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pushpasofiya/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0771-jewels-and-stones](https://github.com/pushpasofiya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushpasofiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/pushpasofiya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |

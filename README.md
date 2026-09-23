@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pushpasofiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pushpasofiya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pushpasofiya/LeetCode/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/pushpasofiya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pushpasofiya/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pushpasofiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushpasofiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pushpasofiya/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/pushpasofiya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pushpasofiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushpasofiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pushpasofiya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/pushpasofiya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pushpasofiya/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |

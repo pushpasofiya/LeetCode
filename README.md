@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/pushpasofiya/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pushpasofiya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pushpasofiya/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushpasofiya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/pushpasofiya/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pushpasofiya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/pushpasofiya/LeetCode/tree/master/1922-count-good-numbers) |
 ## Geometry

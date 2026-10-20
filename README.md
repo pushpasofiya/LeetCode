@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pushpasofiya/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1929-concatenation-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushpasofiya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pushpasofiya/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pushpasofiya/LeetCode/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

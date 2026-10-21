@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pushpasofiya/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/pushpasofiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pushpasofiya/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/pushpasofiya/LeetCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/pushpasofiya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pushpasofiya/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pushpasofiya/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/pushpasofiya/LeetCode/tree/master/0412-fizz-buzz) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pushpasofiya/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushpasofiya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/pushpasofiya/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -351,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pushpasofiya/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

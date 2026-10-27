@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pushpasofiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pushpasofiya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pushpasofiya/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pushpasofiya/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/pushpasofiya/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushpasofiya/LeetCode/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pushpasofiya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/pushpasofiya/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/pushpasofiya/LeetCode/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/pushpasofiya/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |

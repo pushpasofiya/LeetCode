@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pushpasofiya/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pushpasofiya/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushpasofiya/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpasofiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pushpasofiya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pushpasofiya/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pushpasofiya/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pushpasofiya/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pushpasofiya/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pushpasofiya/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pushpasofiya/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pushpasofiya/LeetCode/tree/master/0412-fizz-buzz) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pushpasofiya/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -278,14 +281,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Database
 |  |
@@ -404,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pushpasofiya/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pushpasofiya/LeetCode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pushpasofiya/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

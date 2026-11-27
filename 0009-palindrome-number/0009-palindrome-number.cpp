@@ -1,17 +1,17 @@
 class Solution {
 public:
-    bool isPalindrome(int n) {
-        if(n<0)
+    bool isPalindrome(int x) {
+        long long int ori=x;
+       long long  int rev=0;
+        if(x<0)
         {
             return false;
         }
-        long long int ori=n;
-        long long int rev=0;
-        while(n!=0)
+        while(x!=0)
         {
-            long long int last=n%10;
-            rev=rev*10+last;
-            n/=10;
+            long long int last=x%10;
+            rev=(rev*10)+last;
+            x/=10;
         }
         if(rev==ori)
         {

@@ -1,17 +1,15 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-
         int mini=*min_element(nums.begin(),nums.end());
         int maxi=*max_element(nums.begin(),nums.end());
-        int a=0;
-        while(mini!=0)
+        for(int i=mini;i>=1;i--)
         {
-            int r = maxi%mini;
-             maxi=mini;
-               mini=r;
+            if(mini%i==0 && maxi%i==0)
+            {
+                return i;
+            }
         }
-       return maxi;
-        
+        return  0;
     }
 };

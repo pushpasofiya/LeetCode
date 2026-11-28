@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/pushpasofiya/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpasofiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushpasofiya/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/pushpasofiya/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pushpasofiya/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pushpasofiya/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pushpasofiya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3945-digit-frequency-score](https://github.com/pushpasofiya/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
